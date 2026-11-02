@@ -1,0 +1,28 @@
+
+# Dataset - large files
+data/
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained models
+models/*.pkl
+models/*.joblib
+
+# Environment variables and secrets
+.env
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
